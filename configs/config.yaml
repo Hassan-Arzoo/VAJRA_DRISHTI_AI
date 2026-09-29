@@ -1,0 +1,6 @@
+seed: 42
+forecast_horizons: [5, 10, 15, 30, 60]
+synthetic_events: 24
+grid_size: 24
+risk_thresholds: {moderate: 0.25, high: 0.50, very_high: 0.75}
+model: {trees: 160, max_depth: 8}
