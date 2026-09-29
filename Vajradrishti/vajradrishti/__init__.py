@@ -1,1 +1,0 @@
-"""VajraDrishti synthetic nowcasting PoC."""
